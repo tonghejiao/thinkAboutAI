@@ -10,10 +10,10 @@ which is true) is true, then (a sentence containing "house price", which is true
 For the sake of illustration, (A sentence containing A or B or C, can judge the truth) I use {A,B,C}.
 The world might have something like this:
 
-{A} -> {room rate}
-{B} -> {room rate}
-{A,B} -> {room rate}
-{A,B,C} -> {House price,A}
+{A} -> {room rate}  
+{B} -> {room rate}  
+{A,B} -> {room rate}  
+{A,B,C} -> {House price,A}  
 ...
 
 The above language can be represented by a "directed graph", such as:

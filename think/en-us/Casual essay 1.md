@@ -2,16 +2,16 @@ The current ai is more like developing some "mapping machine".
 
 Neural network we treat it as a black box, do not consider the internal principle, only consider the input and output, then it is a "mapping machine" as follows.
 
-A1 -> B1
-A2 -> B2
-A3 -> B3
+A1 -> B1  
+A2 -> B2  
+A3 -> B3  
 ...
 
 ChatGPT, viewed in the same way, is slightly different from a neural network, a "mapper" of outputs plus a probability distribution.
 
-A1 -> (40% probability output) B1
-A1 -> (30% probability output) B2
-A2 -> (30% probability output) B3
+A1 -> (40% probability output) B1  
+A1 -> (30% probability output) B2  
+A2 -> (30% probability output) B3  
 ...
 
 This is more like the human brain's intuition about something, once the "mapper" is built, it doesn't think much about it when it is used.
