@@ -1,1 +1,1 @@
-![架构图](架构图.excalidraw.svg)
+![架构图](img/架构图.excalidraw.svg)
