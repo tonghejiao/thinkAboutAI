@@ -1,2 +1,2 @@
 Word2Vec貌似只能保证两个相似的词在多维空间中距离比较近.但是他们好像没有保证多位坐标系的位置和旋转.
-
+[Word2Vec的疑点.excalidraw](Word2Vec的疑点.excalidraw.md)
